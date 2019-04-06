@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 05 Apr 2019 14:27:56 at http://results.vtu.ac.in/resultsvitavicbcs_19/index.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*http://results.vtu.ac.in/resultsvitavicbcs_19/index.php* +*http://results.vtu.ac.in/resultsvitavicbcs_19/index.php*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "HTTrack Website Copier/3.0x (offline browser; web mirror utility)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://results.vtu.ac.in/resultsvitavicbcs_19/index.php -O1 "C:\My Web Sites\clone1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*http://results.vtu.ac.in/resultsvitavicbcs_19/index.php* +*http://results.vtu.ac.in/resultsvitavicbcs_19/index.php* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:28:09	Warning: 	File not parsed, looks like binary: results.vtu.ac.in/resultsvitavicbcs_19/captcha_new.php
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/log.png (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/icons.png (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/blue-line.gif (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/close-button.png (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/blue-arrow.png (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/ico-search.png (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/down-arrow.png (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/black-arrow.gif (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/arrow-2.png (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/green-arrow.gif (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/blue-arrow.gif (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/cyan-arrow.gif (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/purple-arrow.gif (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/border-rgt.gif (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/msover-border.jpg (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/thin_left_arrow.png (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/thin_right_arrow.png (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/contentbg1.jpg (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/white-arrow.gif (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/quote-top.png (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/quote-bottom.png (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/indus-recognition/gesia.jpg (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/indus-recognition/best-staffing-firms.jpg (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/indus-recognition/fine-tech100.jpg (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/indus-recognition/global-services.jpg (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/indus-recognition/top-business.jpg (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/footer-icon.jpg (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/menu-arrow.gif (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/grey-arrow.gif (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/mob-arrow.png (from results.vtu.ac.in/css/style.css)
+14:28:09	Error: 	"Not Found" (404) at link results.vtu.ac.in/images/menu.png (from results.vtu.ac.in/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 40 links scanned, 8 files written (357374 bytes overall) [131655 bytes received at 10127 bytes/sec], 316293 bytes transferred using HTTP compression in 7 files, ratio 24%, 10.0 requests per connection
+(31 errors, 1 warnings, 0 messages)
